@@ -1,8 +1,7 @@
 # git-github
 the base-command of git and git hub
 
-<h1>
-  # Basic Git Commands
+# Basic Git Commands
 git init
 git add
 git commit
@@ -45,4 +44,3 @@ git commit -m "Modify your-file.txt with relevant changes"
 git push origin master
 
 
-</h1>
